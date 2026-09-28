@@ -1,0 +1,20 @@
+{
+  "name": "genpark-feldman-verifiable-secret-sharing-vss-skill",
+  "version": "1.0.0",
+  "description": "Feldman's Verifiable Secret Sharing (VSS) broadcasting public commitments to verify share consistency",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "feldman-vss",
+    "verifiable-secret-sharing",
+    "threshold-cryptography",
+    "commitments",
+    "distributed-key-generation",
+    "python-standard-library",
+    "agent-skills",
+    "cryptography",
+    "zero-knowledge",
+    "dkg"
+  ]
+}
