@@ -1,0 +1,6 @@
+name: genpark-feldman-verifiable-secret-sharing-vss-skill
+version: 1.0.0
+description: Feldman's Verifiable Secret Sharing (VSS) broadcasting public commitments to verify share consistency
+command: python
+args:
+  - mcp_server.py
